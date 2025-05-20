@@ -24,6 +24,7 @@ public class javaCalculator {
         return result;
     }
 
+
     public static void main(final String[] args) {
         System.out.println(basicCalculator(Operation.DIVIDE, 1, 2));
     }
